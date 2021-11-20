@@ -8,6 +8,8 @@
   "admob_banner": "ca-app-pub-6994117986450416/3514675422",
   "admob_interstitial": "ca-app-pub-6994117986450416/1408560297",
   "admob_native": "ca-app-pub-6994117986450416/4537286517",
+  "ad_mopub_banner": "5d15233912694270bcfdefaa4423c5e1",
+  "ad_mopub_interstitial": "3e5eadcc9c4c4dc789da4b0f3b52c3fd",
   "new_pkg": "abc.xyz",
   "is_version": "false",
   "ad_type": "1"
