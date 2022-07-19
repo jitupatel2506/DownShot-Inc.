@@ -11,7 +11,7 @@
     "admob_open": "ca-app-pub-5408926552459671/3679693278",
     
     "pause_all":false,
-    "ad_type" : "1",
+    "ad_type" : "0",
     "new_pkg" : "com.videoplayer.musicplayer.audioplayer.videoplayerallformat",
     "is_version" : "false"
   }
