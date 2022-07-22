@@ -5,10 +5,10 @@
     "fb_mid_rect": "642592620232966_642593006899594",
     "admob_pub_id": "pub-6994117986450416",
     "admob_app_id": "ca-app-pub-6994117986450416~3172960308",
-    "admob_banner": "ca-app-pub-6994117986450416/5607551952",
-    "admob_interstitial": "ca-app-pub-6994117986450416/6729061938",
-    "admob_native": "ca-app-pub-6994117986450416/7850571916",
-    "ad_type": "0",
+    "admob_banner": "/21753324030,22764336884/com.downshot.videodownloader.videodownloadapp.freevideodownloader_Banner",
+    "admob_interstitial": "/21753324030,22764336884/com.downshot.videodownloader.videodownloadapp.freevideodownloader_Interstitial",
+    "admob_native": "/21753324030,22764336884/com.downshot.videodownloader.videodownloadapp.freevideodownloader_Native",
+    "ad_type": "1",
     "new_pkg": "com.abc.neon",
     "is_version": "false"
 }
