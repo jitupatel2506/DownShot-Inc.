@@ -11,7 +11,7 @@
     "admob_open": "/21753324030,22764336884/com.videoplayer.musicplayer.audioplayer.videoplayerallformat_AppOpen",
     
     "pause_all":false,
-    "ad_type" : "1",
+    "ad_type" : "0",
     "new_pkg" : "com.videoplayer.musicplayer.audioplayer.videoplayerallformat",
     "is_version" : "false"
   }
